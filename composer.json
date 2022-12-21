@@ -15,7 +15,8 @@
     ],
     "require": {
         "illuminate/support": "~8|~9",
-        "backpack/crud": "^5.4"
+        "backpack/crud": "^5.4",
+        "backpack/settings": "^3.0"
     },
     "require-dev": {
         "phpunit/phpunit": "~9.0",

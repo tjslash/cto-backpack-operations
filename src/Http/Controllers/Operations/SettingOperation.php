@@ -75,7 +75,7 @@ trait SettingOperation
                 'top', 
                 'setting', 
                 'view', 
-                'cto-backpack-operations.buttons.setting'
+                'tjslash.cto-backpack-operations::buttons.setting'
             );
         });
     }
@@ -97,7 +97,7 @@ trait SettingOperation
                 Setting::get($name)
             );
         }
-        return view("cto-backpack-operations.operations.setting", $this->data);
+        return view("tjslash.cto-backpack-operations::operations.setting", $this->data);
     }
 
     /**
