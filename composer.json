@@ -11,7 +11,7 @@
     ],
     "homepage": "https://github.com/tjslash/cto-backpack-operations",
     "keywords": [
-        "Laravel", "Backpack", "Backpack for Laravel", "Backpack Addon", "CtoBackpackOperations"
+
     ],
     "require": {
         "illuminate/support": "~8|~9",
